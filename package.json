@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/WanLinLin/ws-web-app/issues"
   },
-  "homepage": "https://github.com/WanLinLin/ws-web-app#readme"
+  "homepage": "https://github.com/WanLinLin/ws-web-app#readme",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
 }
